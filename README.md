@@ -28,4 +28,4 @@ I'm an M.S. student in Intelligent Computing at National Cheng Kung University (
 Python · PyTorch · ROS 2 / ROS 1 · OpenCV · CUDA · Docker · Linux
 
 **Contact**
-[LinkedIn](https://www.linkedin.com/in/you-sheng-wang-9b782a158/)
+[LinkedIn](www.linkedin.com/in/you-sheng-wang)
